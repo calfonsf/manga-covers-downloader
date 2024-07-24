@@ -1,0 +1,23 @@
+{
+    "id": "1a6657f3-107a-45d4-94c2-efdbf17a2259",
+    "type": "cover_art",
+    "attributes": {
+        "description": "",
+        "volume": "1.2",
+        "fileName": "b877b5d0-f5fd-4b7b-b7c1-51eb1faf28a5.jpg",
+        "locale": "ja",
+        "createdAt": "2024-05-06T17:30:02+00:00",
+        "updatedAt": "2024-05-06T17:30:02+00:00",
+        "version": 1
+    },
+    "relationships": [
+        {
+            "id": "801513ba-a712-498c-8f57-cae55b38cc92",
+            "type": "manga"
+        },
+        {
+            "id": "f73d34f6-f678-4f8b-9dff-5c759d5fc767",
+            "type": "user"
+        }
+    ]
+}
